@@ -1,0 +1,10 @@
+*.pyc
+env/
+/env
+.terraform
+.env
+staticfiles/
+postgres-data/
+db.sqlite3
+myenv/
+/myenv
